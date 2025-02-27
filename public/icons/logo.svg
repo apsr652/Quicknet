@@ -1,0 +1,11 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" fill="none">
+    <!-- Outer Q Shape -->
+    <circle cx="100" cy="100" r="70" stroke="#007BFF" stroke-width="15" fill="none"/>
+    
+    <!-- Tail of the Q -->
+    <line x1="130" y1="130" x2="160" y2="160" stroke="#007BFF" stroke-width="15" stroke-linecap="round"/>
+    
+    <!-- Inner speech bubble -->
+    <rect x="80" y="80" width="40" height="30" rx="5" fill="#007BFF"/>
+    <polygon points="100,110 90,125 110,125" fill="#007BFF"/>
+</svg>
